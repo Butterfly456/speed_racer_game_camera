@@ -1,1 +1,2 @@
-# speed_racer_game_camera
+# C38RV_SpeedRacer_StudentActivity
+Student Activity
